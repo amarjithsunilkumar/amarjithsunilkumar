@@ -62,7 +62,10 @@ I'm looking to build a long-term career in Japan and contribute as an early, cor
 | **Project** | **Description** |
 |-------------|-----------------|
 | **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
-| **[EV Go-Kart Powertrain (GKDC 2025)](https://github.com/YOUR-USERNAME/REPO-NAME)** | Motor selection and battery pack integration for an electric go-kart as part of a cross-functional team; coordinated milestones and tracked specifications in Google Sheets. Passed technical inspection. |
+| **[6TH-Season-of-Indian-Karting-Race-Go-Kart-Design-Competition](https://https://github.com/amarjithsunilkumar/6TH-Season-of-Indian-Karting-Race-Go-Kart-Design-Competition/blob/main/README.md)** | Participated in the Final Round of 6TH Season of Indian Karting Race organized by ISIEINDIA. ✔ Cleared In-House Technical Inspection
+✔ Exposure to electric vehicle design principles
+✔ Team collaboration, problem-solving, and engineering validation
+Represented Mar Athanasius College of Engineering. |
 | **[EVHACK 2.0 Finalist Project](https://github.com/YOUR-USERNAME/REPO-NAME)** | National EV-technology hackathon (Bosch Global Software Technologies); designed and pitched an EV solution under time constraints in a cross-functional team. |
 
 
