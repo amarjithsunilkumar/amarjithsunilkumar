@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Amarjith Sunilkumar**, an IT and engineering professional based in **Kyoto, Japan** (open to relocation). I hold a **B.Tech in Electrical & Electronics Engineering** and an **M.S. in Information Technology** with an **ERP concentration**. I enjoy structured, data-driven problem solving, cross-functional teamwork, and building practical systems, from embedded hardware to Python analytics.
+I'm **Amarjith Sunilkumar**, an IT and Engineering professional based in **Kyoto, Japan** (open to relocation). I hold a **B.Tech in Electrical & Electronics Engineering** and an **M.S. in Information Technology** with an **ERP concentration**. I enjoy structured, data-driven problem solving, cross-functional teamwork, and building practical systems, from embedded hardware to Python analytics.
 
 I'm looking to build a long-term career in Japan and contribute as an early, core team member on new business initiatives.
 
