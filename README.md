@@ -70,6 +70,8 @@ I'm looking to build a long-term career in Japan and contribute as an early, cor
 | **[Recruitment-Process-in-SAP-S-4HANA](https://github.com/amarjithsunilkumar/Recruitment-Process-in-SAP-S-4HANA)** | A step-by-step walkthrough of the end-to-end recruitment workflow in SAP S/4HANA Human Resource Management (HRM), from setting up the organization structure to hiring a new employee and verifying the result.*. |
 | **[Integrated-System-for-Payroll-Attendance-and-Human-Resource-Management](https://github.com/amarjithsunilkumar/Integrated-System-for-Payroll-Attendance-and-Human-Resource-Management)** | A research project proposal for designing an integrated platform that connects **payroll**, **attendance**, and **human resource (HR)** functions, using automation and cloud-based technologies to reduce errors and administrative workload*. |
 | **[The-Role-of-Internal-Controls-in-Preventing-Accounting-Fraud-An-International-Perspective](https://github.com/amarjithsunilkumar/The-Role-of-Internal-Controls-in-Preventing-Accounting-Fraud-An-International-Perspective)** | A research project proposal for designing an integrated platform that connects **payroll**, **attendance**, and **human resource (HR)** functions, using automation and cloud-based technologies to reduce errors and administrative workload*. |
+| **[Understanding-Cyber-Threats-and-Defence-Mechanisms](https://github.com/amarjithsunilkumar/Understanding-Cyber-Threats-and-Defence-Mechanisms)** | A cybersecurity report covering the main cyber threats facing a medium-sized organization, the defences used against them, and lessons from major real-world attacks*. |
+
 ---
 
 <h2 id="Education"> Education </h2>
