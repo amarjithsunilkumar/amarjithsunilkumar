@@ -45,10 +45,10 @@ I'm looking to build a long-term career in Japan and contribute as an early, cor
 
 <h2 id="Certifications"> Certifications, Training & Awards </h2>
 
-- 🎓 **ERP Concentration**: Certificate of Completion, The Kyoto College of Graduate Studies for Informatics (March 2026)
-- 🏁 **Finalist**, EVHACK 2.0 Powertrain design of a front wheel drive car. (Bosch Global Software Technologies)
-- 🔧 **Technical Inspection Pass**, 9th Go-Kart Design Challenge (EV Category)
-- 🏎️ **Participant**, ISIE India 6th Season Karting Race "IKR", Galgotias University, Gr. Noida, representing Mar Athanasius College of Engineering (11 - 15 January 2022)
+-  **ERP Concentration**: Certificate of Completion, The Kyoto College of Graduate Studies for Informatics (March 2026)
+-  **Finalist**, EVHACK 2.0 Powertrain design of a front wheel drive car. (Bosch Global Software Technologies)
+-  **Technical Inspection Pass**, 9th Go-Kart Design Challenge (EV Category)
+-  **Participant**, ISIE India 6th Season Karting Race "IKR", Galgotias University, Gr. Noida, representing Mar Athanasius College of Engineering (11 - 15 January 2022)
 - Image Processing Basics with Python (OpenCV)
 - Basics of AutoCAD and SketchUp
 - IoT Workshop (sensor networks & embedded systems)
