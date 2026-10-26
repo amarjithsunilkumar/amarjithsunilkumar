@@ -64,13 +64,13 @@ I'm looking to build a long-term career in Japan and contribute as an early, cor
 | **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
 | **[6TH-Season-of-Indian-Karting-Race-Go-Kart-Design-Competition](https://github.com/amarjithsunilkumar/6TH-Season-of-Indian-Karting-Race-Go-Kart-Design-Competition)** | (Go- Kart Desisn Competition) Participated in the Final Round of 6TH Season of Indian Karting Race organized by ISIEINDIA. Represented Mar Athanasius College of Engineering. |
 | **[EVHACK-2.0-Powertrain-design-of-a-Front-Wheel-Drive-Car-Finalist-Project](https://github.com/amarjithsunilkumar/EVHACK-2.0-Powertrain-design-of-a-Front-Wheel-Drive-Car-Finalist-Project)** | National EV-technology hackathon (Bosch Global Software Technologies); designed and pitched an EV solution under time constraints in a cross-functional team. |
-
-
-
-
-
-
-
+| **[Underwater-Acoustic-Sonar-Image-Transmission-Using-Sparse-Wavelet-Transform](https://github.com/amarjithsunilkumar/Underwater-Acoustic-Sonar-Image-Transmission-Using-Sparse-Wavelet-Transform))** | Seminar study on transmitting sonar images underwater using compressed sensing and sparse wavelet transform. |
+| **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
+| **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
+| **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
+| **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
+| **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
+| **[PID-Controller-based-Solar-Lawn-Mower](https://github.com/amarjithsunilkumar/PID-Controller-based-Solar-Lawn-Mower)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
 ---
 
 <h2 id="Education"> Education </h2>
