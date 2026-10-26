@@ -10,7 +10,7 @@ I'm looking to build a long-term career in Japan and contribute as an early, cor
 <details>
   <summary>More about me</summary>
 
-- **Name**: Sunilkumar Amarjith
+- **Name**: Amarjith Sunilkumar
 - **Location**: Kyoto, Japan (open to relocation)
 - **Focus**: ERP & business process mapping | Project coordination | Data tracking & reporting | Process improvement
 - Currently pursuing an **M.S. in Information Technology** at The Kyoto College of Graduate Studies for Informatics (2024 - 2026)
