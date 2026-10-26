@@ -46,9 +46,9 @@ I'm looking to build a long-term career in Japan and contribute as an early, cor
 <h2 id="Certifications"> Certifications, Training & Awards </h2>
 
 - 🎓 **ERP Concentration**: Certificate of Completion, The Kyoto College of Graduate Studies for Informatics (March 2026)
-- 🏁 **Finalist**, EVHACK 2.0 (Bosch Global Software Technologies)
+- 🏁 **Finalist**, EVHACK 2.0 Powertrain design of a front wheel drive car. (Bosch Global Software Technologies)
 - 🔧 **Technical Inspection Pass**, 9th Go-Kart Design Challenge (EV Category)
-- 🏎️ **Participant**, ISIE India 6th Season Karting Race "IKR", Galgotias University, Gr. Noida (11 - 15 January 2022), representing Mar Athanasius College of Engineering
+- 🏎️ **Participant**, ISIE India 6th Season Karting Race "IKR", Galgotias University, Gr. Noida, representing Mar Athanasius College of Engineering (11 - 15 January 2022)
 - Image Processing Basics with Python (OpenCV)
 - Basics of AutoCAD and SketchUp
 - IoT Workshop (sensor networks & embedded systems)
@@ -62,10 +62,14 @@ I'm looking to build a long-term career in Japan and contribute as an early, cor
 | **Project** | **Description** |
 |-------------|-----------------|
 | **[PID Controller-Based Solar Lawn Mower](https://github.com/YOUR-USERNAME/REPO-NAME)** | Designed and tuned a PID control loop to stabilize motor speed and improve energy efficiency under varying load. Published in the *International Journal of Creative Research Thoughts (IJCRT)*. |
-| **[Arduino-Based Intelligent Transformer Cooling System](https://github.com/YOUR-USERNAME/REPO-NAME)** | Sensor-driven Arduino system that regulates transformer temperature automatically; analyzed temperature/load data to set trigger thresholds and reduce manual monitoring. |
-| **[Image Processing with OpenCV](https://github.com/YOUR-USERNAME/REPO-NAME)** | Python and OpenCV image-processing routines, building a foundation in Python-based data and analytics tooling. |
 | **[EV Go-Kart Powertrain (GKDC 2025)](https://github.com/YOUR-USERNAME/REPO-NAME)** | Motor selection and battery pack integration for an electric go-kart as part of a cross-functional team; coordinated milestones and tracked specifications in Google Sheets. Passed technical inspection. |
 | **[EVHACK 2.0 Finalist Project](https://github.com/YOUR-USERNAME/REPO-NAME)** | National EV-technology hackathon (Bosch Global Software Technologies); designed and pitched an EV solution under time constraints in a cross-functional team. |
+
+
+
+
+
+
 
 ---
 
